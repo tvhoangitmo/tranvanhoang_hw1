@@ -30,5 +30,6 @@ This project is a simple static profile page served using Python Flask. It inclu
 3. Open your browser and go to `http://localhost:5000`
 
 ## GitHub Pages
-
-The frontend part is also hosted on GitHub Pages. You can view it [here](https://tranvanhoang-hw1-28ut.onrender.com/). 
+You can view my profile through two options:
+1. The frontend part is hosted on GitHub Pages. You can view it [here] (https://tvhoangitmo.github.io/tranvanhoang_hw1/)
+2. The live page after deployment on Render can be accesse [here] (https://tranvanhoang-hw1-28ut.onrender.com/). 
