@@ -1,0 +1,7 @@
+# Ignore text.txt
+Homework1/text.txt
+
+# Other files or directories to ignore
+*.log
+*.pyc
+__pycache__/
