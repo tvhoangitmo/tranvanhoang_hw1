@@ -1,5 +1,5 @@
 # Ignore text.txt
-text.txt
+./text.txt
 
 # Other files or directories to ignore
 *.log
