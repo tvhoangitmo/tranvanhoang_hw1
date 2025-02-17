@@ -31,4 +31,4 @@ This project is a simple static profile page served using Python Flask. It inclu
 
 ## GitHub Pages
 
-The frontend part is also hosted on GitHub Pages. You can view it [here](your-github-page-link). 
+The frontend part is also hosted on GitHub Pages. You can view it [here](https://tranvanhoang-hw1-28ut.onrender.com/profile). 
