@@ -1,5 +1,5 @@
 # Ignore text.txt
-Homework1/text.txt
+text.txt
 
 # Other files or directories to ignore
 *.log
