@@ -29,6 +29,12 @@ This project is a simple static profile page served using Python Flask. It inclu
 2. Run the application: `python app.py`
 3. Open your browser and go to `http://localhost:5000`
 
+## Serving Static Resources
+
+Place your CSS, images, and other static files in the `static` directory. Access them in your HTML using the `url_for` function:
+
+Static files are accessible at `/static/<file_name>`.
+
 ## GitHub Pages
 You can view my profile through two options:
 1. The frontend part is hosted on GitHub Pages. You can view it [here](https://tvhoangitmo.github.io/tranvanhoang_hw1/)
